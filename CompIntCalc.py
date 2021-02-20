@@ -7,7 +7,7 @@ INTEREST CALCULATOR
 ===================
 * To calculate final (A)mount, type 'A'.
 * To calculate (T)ime to mature to a given balance, type 'T'.
-* To calculate how much should be invested to achieve a given balance, type 'I'.
+* To calculate how much should be (I)nvested to achieve a given balance, type 'I'.
 * To (Q)uit, type 'Q'.
 > \
 """))
